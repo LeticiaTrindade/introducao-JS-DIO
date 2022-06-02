@@ -24,6 +24,18 @@ button {
     text-align: center;
 }
 
+#reset {
+    height: 40px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid lightcoral;
+    background-color: rgb(241, 214, 214);
+    color: lightcoral;
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: left;
+}
+
 #counter {
     display: flex;
 }
